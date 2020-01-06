@@ -1,2 +1,2 @@
-# react-ssr-boilerplate
-simple React.js SSR project for prectice
+# react-nextjs-boilerplate
+simple React.js SSR project with Next.js
