@@ -1,11 +1,11 @@
 import Layout from '../components/Layout';
 
-const Index = () => {
+const About = () => {
     return (
         <Layout>
-            <p>Hello Next.js!</p>
+            <p>This is About page!</p>
         </Layout>
     )
 }
 
-export default Index;
+export default About;
